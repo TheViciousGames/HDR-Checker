@@ -20,5 +20,6 @@ If you want to help:
 Paypal: paypal.me/tulituvlad <br/>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/tulituvlad)
 
-Website: theviciousgames.com
+More about the app here: https://theviciousgames.com/android-apps/hdr-checker-android/ <br/>
+Website: https://theviciousgames.com
 
